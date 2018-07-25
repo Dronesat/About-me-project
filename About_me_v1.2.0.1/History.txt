@@ -1,0 +1,17 @@
+HISTORY of the program
+----------------------
+
+1.2          10-12-2015
+-------------------------
+- Add loading panel to improve accuracy 
+
+1.1          19-11-2015
+------------------------
+- Auto maximize notepad window
+
+1.0 Beta 1    10-11-2015
+------------------------
+- Original beta version.
+
+
+End of document
